@@ -1,0 +1,45 @@
+Milestone 1:
+    Week 1 concept: Reading from files
+    Create a skeleton of classes and methods
+
+Water Usage Calculator (inputs) - Dorm life specific
+    Aspects of usage:
+    Drinking Water - allow users to input ounces or milliliters
+    Showering - time spent in the shower (assume dorm showers)
+    Using the Bathroom - most toilets here are water conserving,
+                         single drop flush (less)
+                         multiple drop flush (more)
+    Laundry - low,medium,high soil (assume the use of dorm speed queens)
+    Sink usage (assume a dorm styled sink):
+        Washing hands
+        dishes
+    Other data
+    date
+
+Water Usage Calculator data
+    Need to collect data on the flow rates of certain hardware to create an accurate calulator
+    Store in a file (.txt or .csv)
+    Can I upload a file that keeps track of updating water usage benchmarks? An external data file that automatically updates
+
+Water Usage Calculator (outputs) - Dorm life specific
+    Total usage
+    Personalized insights
+        Usage in percentages by type of usage
+        Benchmark comparisons from the average wake forest student, NC, the US, global standards
+    Tips for water conservation based on usage
+
+Storing Data
+    Use file writer to create a .txt or .csv file to store the users data.
+    The program can then read the file to access data when needed
+
+Milestone 2:
+    Concept 2: Recursion and Classes
+
+What I want to add
+    Store multiple entries per user
+    How can I incorporate recursion?
+        - view their past water usage data recursively
+
+
+
+
